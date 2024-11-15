@@ -1,1 +1,1 @@
-# Ice-Staff-Puzzle-Memorization
+run "index"
