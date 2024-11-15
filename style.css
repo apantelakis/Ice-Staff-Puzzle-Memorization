@@ -1,0 +1,33 @@
+body {
+    background-image: url("img/crazyplace.jpeg");
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.imgs {
+    text-align:center;
+}
+
+.solutionclass {
+    height: 150px;
+}
+
+.solid-line {
+    border: none;
+    border-top: 4px solid rgb(255, 255, 255);
+    margin: 20px 0;
+}
+
+.space {
+    margin-bottom: 200px;
+}
+
+.space2 {
+    margin-bottom: 50px;
+}
+
+.text {
+    color: aliceblue;
+    font-size: 50px;
+}
